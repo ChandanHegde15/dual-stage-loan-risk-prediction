@@ -319,10 +319,12 @@ pip install -r requirements.txt
 
 # Future Improvements
 
-- Streamlit / Flask deployment
+- Deploy model using Streamlit or Flask
 - Hyperparameter optimization
-- Advanced explainability dashboards
-- MLOps pipeline integration
+- Build interactive loan risk dashboard
+- Add real-time prediction API
+- Integrate database support
+- Improve explainability visualization
 
 ---
 
